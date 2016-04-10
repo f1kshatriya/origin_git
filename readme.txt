@@ -1,2 +1,2 @@
 doc
-doc1
+doc1 doc2
